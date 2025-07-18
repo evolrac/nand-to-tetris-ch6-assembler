@@ -1,3 +1,5 @@
+![CI](https://github.com/evolrac/nand-to-tetris-ch6-assembler/actions/workflows/dotnet-ci.yml/badge.svg)
+
 # nand-to-tetris-ch6-assembler
 Ch 6 in NAND to tetris book using .NET 8/C#. See https://www.nand2tetris.org/software for more background information.
 
